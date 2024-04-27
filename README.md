@@ -1,6 +1,6 @@
 <br clear="both">
 
-<h3 align="left">Hi 👋! My name is Le Nguyen Ngoc and I'm student, from <br>School of Information and Communications Technology - <br>Hanoi University of Science and Technology.</h3>
+<h3 align="left">Hi 👋! My name is Le Nguyen Ngoc and I'm student, from School of Information and Communications Technology - Hanoi University of Science and Technology.</h3>
 
 ###
 
